@@ -1,0 +1,5 @@
+{
+  "services": [
+    { "name": "web", "startCommand": "node server.js", "port": 3000 }
+  ]
+}
